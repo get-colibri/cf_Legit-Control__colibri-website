@@ -1,1 +1,1 @@
-- [ ] colibri opens ever
+- [ ] colibri opens every docuemnt no matter w
