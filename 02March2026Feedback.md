@@ -5,4 +5,4 @@
 - [ ] Insert Image via drag and drop 
    - [ ] GIF Support? 
 - [ ] Reset button, damit man auf GH was ändern kann und die Änderung dann in Colibri sind]
-- [ ] Add images with bast
+- [ ] Add images with base64 
