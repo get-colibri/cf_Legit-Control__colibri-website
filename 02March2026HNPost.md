@@ -1,4 +1,4 @@
-```Title:
+Title:
 Show HN: Turn any GitHub Markdown into a collaborative editor by replacing “g” with "tune"
 
 Body:
@@ -28,4 +28,4 @@ Limitations:
 Feedback, I’d love: 
 
 - How do you currently collaborate on .md files?
-- If you could add one feature to a Markdown editor like this, what would it be?```
+- If you could add one feature to a Markdown editor like this, what would it be?
