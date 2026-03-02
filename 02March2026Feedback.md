@@ -16,5 +16,5 @@ Add images with base64 are not working data:image/jpeg;base64,/9j/4AAQSkZJRgABAQ
 - [ ] Github badges now looks a bit to big because of the image change see repo above 
    - [ ] Intresting this [repo](https://app.get-colibri.com/?room_id=github.com%2Fanomalyco%2Fopencode%2Fblob%2Fdev%2FREADME.md) is ok because the badges are not rendert as images
    - [ ] Create an test case for badges in the markdown playground @Jannes
-- [ ] Remove seconds from comments / created_at 
-- [ ] [Badges/ Images in tables are not rendered correctly](https://app.get-colibri.com/?room_id=github.com/CMSgov/design-system/blob/main/README.md) 
+- [ ] Remove seconds from comments / created_at @jannes
+- [ ] [Badges/ Images in tables are not rendered correctly](https://app.get-colibri.com/?room_id=github.com/CMSgov/design-system/blob/main/README.md) @jannes
