@@ -15,5 +15,5 @@ Add images with base64 are not working data:image/jpeg;base64,/9j/4AAQSkZJRgABAQ
 - [ ] [Tables overflow the document](https://app.get-colibri.com/?room_id=github.com/Azure/azure-sdk/blob/main/README.md)
 - [ ] Github badges now looks a bit to big because of the image change see repo above 
    - [ ] Intresting this [repo](https://app.get-colibri.com/?room_id=github.com%2Fanomalyco%2Fopencode%2Fblob%2Fdev%2FREADME.md) is ok because the badges are not rendert as images
-   - [ ] Create an 
+   - [ ] Create an test case for badges in
 - [ ] Remove seconds from comments / created_at 
