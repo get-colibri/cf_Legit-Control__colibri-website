@@ -2,5 +2,5 @@
    - [ ] .json, nothing, markdown
 - [ ] Save state icon in header show's `x` if you never changes anything i would on inital show nothing
    - [ ] Das stat
-- [ ] insert Image via drag and drop 
+- [ ] Insert Image via drag and drop 
 - [ ] Reset button, damit man auf GH was ändern kann und die änderung dann in Colibri sind
