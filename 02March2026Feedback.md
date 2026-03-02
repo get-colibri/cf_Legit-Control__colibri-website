@@ -1,3 +1,3 @@
 - [ ] Colibri opens any document, regardless of its file extension.
    - [ ] .json, nothing, markdown
-- [ ] Save state icon in header show's `x` if you never 
+- [ ] Save state icon in header show's `x` if you never changes anything i would on 
