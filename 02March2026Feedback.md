@@ -1,1 +1,1 @@
-- [ ] colibri opens every docuemnt no matter w
+- [ ] colibri opens every docuemnt no matter which ending
