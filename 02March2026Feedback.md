@@ -1,2 +1,2 @@
 - [ ] Colibri opens any document, regardless of its file extension.
-- [ ] 
+   - [ ] .json, 
