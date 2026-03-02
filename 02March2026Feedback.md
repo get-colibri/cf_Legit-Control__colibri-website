@@ -13,4 +13,4 @@ Add images with base64 are not working data:image/jpeg;base64,/9j/4AAQSkZJRgABAQ
 - [ ] [Image Position Mismatch Prevents Editing During Collaborative Changes](https://github.com/get-colibri/app/issues/12)
 - [ ] [Pasting GitHub Titles in Dark Mode Breaks H1 and Causes Save Loop](https://github.com/get-colibri/app/issues/13)
 - [ ] [Tables overflow the document](https://app.get-colibri.com/?room_id=github.com/Azure/azure-sdk/blob/main/README.md)
-- [ ] remove se form in 
+- [ ] remove seconds form t
