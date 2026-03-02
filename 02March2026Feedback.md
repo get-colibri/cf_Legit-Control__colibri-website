@@ -10,9 +10,3 @@ Add images with base64 are not working data:image/jpeg;base64,/9j/4AAQSkZJRgABAQ
 ```
 
    -  ist ein test Image von google
-
-asdber ewenn ich das jetzt ä˜der wenn ich jetzt hier etwas ändere
-
-ic don;t lnow 
-
-![](https://www.legitcontrol.com/timetravel.svg)ewas passier t
