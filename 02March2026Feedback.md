@@ -3,5 +3,5 @@
 - [ ] Save state icon in header show's `x` if you never changes anything i would on inital show nothing
    - [ ] Das stat
 - [ ] Insert Image via drag and drop 
-   - [ ] GIF S
-- [ ] Reset button, damit man auf GH was ändern kann und die änderung dann in Colibri sind
+   - [ ] GIF Support? 
+- [ ] Reset button, damit man auf GH was ändern kann und die Änderung dann in Colibri sind
