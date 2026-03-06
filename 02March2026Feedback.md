@@ -18,4 +18,4 @@ Add images with base64 are not working data:image/jpeg;base64,/9j/4AAQSkZJRgABAQ
    - [ ] Create an test case for badges in the markdown playground @Jannes
 - [ ] Remove seconds from comments / created_at @jannes
 - [ ] [Badges/ Images in tables are not rendered correctly](https://app.get-colibri.com/?room_id=github.com/CMSgov/design-system/blob/main/README.md) @jannes
-- [ ] 
+- [ ] In this rep
